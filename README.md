@@ -4,6 +4,6 @@ To analyze and gain insights on the impact of inflation on consumer spending in 
 ## DATA SOURCE
 The primary dataset utilized for this analysis is sourced from the "consumer-spending-in-Nigeria.xlsx" file, comprising of consumers' spendings essential for the analysis of the impact of inflation.
 ## TOOLS USED
->Excel: To clean the data.
->SQL: To analyze the data.
->PowerBI Desktop: To visualize the outcomes.
+.Excel: To clean the data.
+.SQL: To analyze the data.
+.PowerBI Desktop: To visualize the outcomes.
