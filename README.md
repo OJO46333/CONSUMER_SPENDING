@@ -1,6 +1,6 @@
 # CONSUMER_SPENDING
 ## PROJECT OVERVIEW
-To analyze and gain insights on the impact of inflation on consumer spending in Nigeria. By analyzing the consumer spending dataset, i aim to uncover the trends and patterns related to expenditures of consumers on items and produce. Ultimately, this analysis will empower informed decision-makers to strategize and take action to curbing the demoralizing effect of inflation on consumers and establish a balance in the society. 
+To analyze and gain insights on the impact of inflation on consumer spending in Nigeria. By analyzing the consumer spending dataset, i aim to uncover the trends and patterns related to expenditures of consumers on items and produce, over a given period of time. Ultimately, this analysis will empower informed decision-makers to strategize and take action to curbing the demoralizing effect of inflation on consumers and establish a balance economically, in the society. 
 ## DATA SOURCE
 The primary dataset utilized for this analysis is sourced from the "consumer-spending-in-Nigeria.xlsx" file, comprising of consumers' spendings essential for the analysis of the impact of inflation.
 ## TOOLS USED
@@ -23,4 +23,4 @@ The primary dataset utilized for this analysis is sourced from the "consumer-spe
 3. January 1995, had 14.4 spending on items index, 20.6 spending on food and 20.6 spending on farm energy, indicating the least consumer spending.
 4. In january 2010, there was a sharp rise in food spending which was later surpassed by farm energy in the long run.
 5. From 2012 till date, inflation in food started dominating , followed by items index.
-6. Summarily, as the years progresses, there were notable increase in all items, which indicates inflation especially in the food.
+6. Furthermore, as the years progresses, there were notable increase in all items, which indicates inflation especially in food, which if left to linger, will weaken and reduce the purchasing power of consumers.
